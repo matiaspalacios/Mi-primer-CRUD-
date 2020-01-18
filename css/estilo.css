@@ -1,0 +1,25 @@
+body {
+	
+}
+
+nav{
+	text-align: center;
+	margin-top: 0.7em;
+}
+nav li{
+	display: inline-block;
+	list-style: none;
+}
+img {
+	width: 20%;
+	height: 20%;
+	
+}
+.jumbotron {
+	background-color: #f46344;
+	color: #fff;
+
+}
+.header {
+	background-color: #f46344;
+}

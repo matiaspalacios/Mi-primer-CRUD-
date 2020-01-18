@@ -1,0 +1,2 @@
+<!DOCTYPE html>
+<h1 class="span">LISTADO DE PRODUCTOS EN BODEGA.</h1>
